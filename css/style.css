@@ -1,0 +1,27 @@
+.card {
+   background-color: #f0f0f0;
+}
+
+.card .card-title {
+   color: #007bff;
+}
+
+.card .card-text {
+   font-size: 14px;
+   border: none;
+}
+
+.container {
+   margin-bottom: 40px;
+}
+
+footer {
+   text-align: center;
+   padding: 10px;
+}
+
+@media screen and (max-width: 900px) {
+   .card {
+      margin-bottom: 20px;
+   }
+}
